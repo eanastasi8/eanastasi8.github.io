@@ -45,7 +45,7 @@ var rules = {
   ],
 
 "~*x last name ~*y": [
-    "i dont care",
+    "I dont care",
   ],  
   
   
