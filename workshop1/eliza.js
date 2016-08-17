@@ -43,6 +43,13 @@ var rules = {
   "~*x name ~*y": [
     "I am not interested in names",
   ],
+
+"~*x last name ~*y": [
+    "i dont care",
+  ],  
+  
+  
+  
   "~*x sorry ~*y": [
     "Please don't apologize",
     "Apologies are not necessary",
@@ -182,7 +189,7 @@ var rules = {
     "What if you could ~y?",
   ],
   "~*x I feel ~*y": [
-    "Do you often feel ~y?"
+    "Do you often feel ~y?
   ],
   "~*x I felt ~*y": [
     "What other feelings do you have?"
